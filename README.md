@@ -14,7 +14,7 @@ This project is supported by six modules including room2function-zone module, ta
 For all of the six moduels, we develop deep CNN models, small on-line database, deep recommendation system, deep-refine models to work together for the tatami-layout task. 
 We also compare our layout results with the results of Kujiale.
 
-In Aijia-Deep-Custom-Layout-Team, we work about a half year from zero to on-line service for the custom furniture layout in the interior design industry.
+In Aijia-Deep-Custom-Layout-Team, we work about one year from zero to on-line service for the custom furniture layout in the interior design industry.
 
 
 
