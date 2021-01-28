@@ -1,4 +1,4 @@
-# Tatami-Layout-Product-Prpoject
+# Tatami-Layout-Product-Project
 Tatami-Layout-Product-Prpoject
 This whole project is developed through |Zhuhong|webchat:lemon1900_78|0086-15805169356| 
 
